@@ -487,6 +487,99 @@ weighted avg       0.58      0.58      0.58      7178
 
 ![image](https://github.com/user-attachments/assets/0f37a44d-b5f9-4f58-8443-7ac1d7139418)
 
+```
+Image: 1.jpg
+  Angry: 0.14
+  Disgust: 0.01
+  Fear: 0.15
+  Happy: 0.22
+  Sad: 0.16
+  Surprise: 0.25
+  Neutral: 0.07
+---
+Image: 2.jpg
+  Angry: 0.07
+  Disgust: 0.01
+  Fear: 0.15
+  Happy: 0.25
+  Sad: 0.05
+  Surprise: 0.07
+  Neutral: 0.40
+---
+Image: 3.jpg
+  Angry: 0.19
+  Disgust: 0.03
+  Fear: 0.16
+  Happy: 0.24
+  Sad: 0.13
+  Surprise: 0.21
+  Neutral: 0.04
+---
+Image: 4.jpg
+  Angry: 0.26
+  Disgust: 0.01
+  Fear: 0.11
+  Happy: 0.12
+  Sad: 0.25
+  Surprise: 0.24
+  Neutral: 0.01
+---
+Image: 5.jpg
+  Angry: 0.23
+  Disgust: 0.00
+  Fear: 0.07
+  Happy: 0.51
+  Sad: 0.02
+  Surprise: 0.15
+  Neutral: 0.00
+---
+Image: 6.jpg
+  Angry: 0.12
+  Disgust: 0.00
+  Fear: 0.08
+  Happy: 0.59
+  Sad: 0.05
+  Surprise: 0.14
+  Neutral: 0.01
+---
+Image: 7.jpg
+  Angry: 0.08
+  Disgust: 0.00
+  Fear: 0.03
+  Happy: 0.81
+  Sad: 0.02
+  Surprise: 0.04
+  Neutral: 0.01
+---
+Image: 8.jpg
+  Angry: 0.17
+  Disgust: 0.06
+  Fear: 0.17
+  Happy: 0.16
+  Sad: 0.12
+  Surprise: 0.15
+  Neutral: 0.18
+---
+Image: 9.jpg
+  Angry: 0.13
+  Disgust: 0.05
+  Fear: 0.17
+  Happy: 0.14
+  Sad: 0.15
+  Surprise: 0.19
+  Neutral: 0.18
+---
+Image: 10.jpg
+  Angry: 0.17
+  Disgust: 0.07
+  Fear: 0.16
+  Happy: 0.12
+  Sad: 0.17
+  Surprise: 0.15
+  Neutral: 0.16
+---
+```
+
 
 ## Project Summary
 
