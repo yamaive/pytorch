@@ -392,22 +392,21 @@ Dropout Rate: 0.3, Learning Rate: 0.001, Test Accuracy: 57.80%
 ```
 
 <img alt="image" src="https://github.com/user-attachments/assets/09ea5bcb-2ef7-4171-830e-5debc9d37100">
-<img alt="image" src="https://github.com/user-attachments/assets/d31d0fd3-8690-437e-bda9-9bad1e72bb84">
-
 
 ### Confusion Matrix Analysis
 The confusion matrix shows how accurately (or inaccurately) the model predicted each emotion category (class). The rows represent the actual labels (true emotions), and the columns represent the predicted labels (predicted emotions).
 
 - **Happy**: Correctly predicted 1399 times, the highest among all emotions.
 - **Fear**: Prone to misclassification with other emotions.
+<img alt="image" src="https://github.com/user-attachments/assets/d31d0fd3-8690-437e-bda9-9bad1e72bb84">
 
-<img alt="image" src="https://github.com/user-attachments/assets/c102882a-d682-44f0-bdd6-2275dae7eac3">
 
 ### ROC Curve Analysis
 The ROC curve (Receiver Operating Characteristic curve) illustrates the performance of the classification model for each emotion category. It plots the True Positive Rate (TPR) against the False Positive Rate (FPR) at various threshold settings.
 
 - **AUC 0.85 Classes**: Indicates the model performs very well. Emotions like Happy and Surprise are well identified by this model.
 - **AUC 0.66 Class**: Indicates room for improvement. Fear may need more data or better diversity within the class.
+<img alt="image" src="https://github.com/user-attachments/assets/c102882a-d682-44f0-bdd6-2275dae7eac3">
 
 ```
 Classification Report:
