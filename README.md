@@ -369,9 +369,6 @@ Accuracy: 50.28%
 - A higher learning rate results in larger updates to the model's weights.
 - A value of 0.001 is commonly used as it allows relatively fast learning, but if it's too high, there is a risk of the model's loss function diverging.
 
-### Reinvestigation of Settings
-**Setting 1 (0.3 dropout rate, 0.001 learning rate)** leads to faster learning but comes with a higher risk of overfitting.
-**Setting 2 (0.7 dropout rate, 0.0001 learning rate)** strongly prevents overfitting but may result in slower learning.
 
 ### Re-running with Epochs Set to 15:
 ```
