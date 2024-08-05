@@ -7,7 +7,7 @@ The goal of this project is to build and train a deep learning model for image c
 The dataset is Kaggle's FER2013 dataset. This dataset consists of 48x48 pixel grayscale images and contains automatically registered face images. Each image has a face placed in the center, occupying approximately the same space within the image. Based on facial expressions, the images are classified into seven emotion categories (0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral). The training set contains 28,709 examples and the public test set contains 3,589 examples.  
 [FER-2013 Dataset](https://www.kaggle.com/datasets/msambare/fer2013/data)
 
-![image](https://github.com/user-attachments/assets/8db24ec2-2b2d-4e71-9a86-c5c0f9e10d12)
+![image](https://github.com/user-attachments/assets/9b5a035c-f4ba-42ec-9f7d-93981fae6664)
 
 
 ## Selected Deep Learning Architecture and Reasons for Selection
