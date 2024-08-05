@@ -481,6 +481,13 @@ weighted avg       0.58      0.58      0.58      7178
 
 - **Quality of Data**: Images of smiles are often of higher quality. When capturing positive emotions, lighting and composition are usually better, which contributes to the ease of recognition.
 
+## Final Model Testing
+
+![image](https://github.com/user-attachments/assets/8578256e-06ec-4629-b368-289b0fbf313e)
+
+![image](https://github.com/user-attachments/assets/0f37a44d-b5f9-4f58-8443-7ac1d7139418)
+
+
 ## Project Summary
 
 Building and Training a Deep Learning Model
